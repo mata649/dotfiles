@@ -22,3 +22,6 @@ require("lazy").setup("plugins", {
 vim.lsp.enable({ "lua_ls" })
 require("mata649.remaps")
 require("mata649.options")
+
+vim.opt.spelllang = "en_us"
+vim.opt.spell = true
