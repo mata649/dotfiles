@@ -1,0 +1,18 @@
+[font]
+size = 15.0
+
+[font.normal]
+family = "JetBrainsMonoNL Nerd Font"
+style = "Regular"
+
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/vesper.toml"
+]
+
+[window]
+opacity = 0.97
+
+[terminal]
+
+
