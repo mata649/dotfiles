@@ -60,8 +60,8 @@ return {
                 "jsonls",
                 "html",
                 "tailwindcss",
-                "pylsp",
-                "bashls"
+                "bashls",
+                "basedpyright"
             },
             handlers = {
                 lsp_zero.default_setup,
