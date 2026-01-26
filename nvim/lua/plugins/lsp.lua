@@ -61,7 +61,7 @@ return {
                 "html",
                 "tailwindcss",
                 "bashls",
-                "basedpyright"
+                "pylsp"
             },
             handlers = {
                 lsp_zero.default_setup,
