@@ -2,12 +2,12 @@
 size = 15.0
 
 [font.normal]
-family = "JetBrainsMonoNL Nerd Font"
+family = "Miracode"
 style = "Regular"
 
 [general]
 import = [
-    "~/.config/alacritty/themes/themes/vesper.toml"
+    "~/.config/alacritty/themes/themes/gruvbox_dark.toml"
 ]
 
 [window]
